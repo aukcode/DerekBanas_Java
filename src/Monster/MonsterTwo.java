@@ -21,6 +21,8 @@ public class MonsterTwo {
     public char nameChar1 = 'B';
     public int xPosition = 0;
     public int yPosition = 0;
+
+
     public static int numOfmonsters = 0;
 
 
