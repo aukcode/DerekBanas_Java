@@ -1,0 +1,24 @@
+
+
+Ting å lære:
+ - Linux (mint, virtualbox/virt)
+ - Apache
+ - MySQL
+ - PHP
+ - Django
+ - Postfix
+ - AWS
+ - Postgres
+ -
+
+MEAN - MongoDB, Express, Angular, Node
+
+ - JavaScript
+ - Node.js + Express
+ - React.js
+ - JSON (XML,Excel, ...)
+ - BootStrap (Materialize, reacttingen, UIkit, ...)
+ - jQuery (/jQuery user interface !!)
+ - Ajax
+
+
